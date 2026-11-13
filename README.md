@@ -18,7 +18,7 @@ I've shipped a lot of projects, and most of the code is private to products and 
 
 | Project | What it does |
 |---|---|
-| **[MyGanji PayHub](https://myganji.com)** | Payments engine for businesses. Handles C2B collections and B2C disbursements through a single integration. |
+| **[MyGanji PayHub](https://myganji.com)** | Payments engine for businesses. Handles C2B collections, B2C disbursements and B2B payments through a single integration. |
 | **[MetaCap AI Sales Crew](https://salescrew.metacap.ai)** | An AI sales team. Voice agents take and make calls, remember returning callers, answer from a knowledge base, and qualify and capture leads, all orchestrated from one dashboard. |
 | **[MetaCap AI Marketing Crew](https://marketingcrew.metacap.ai)** | A multi-channel AI agent platform. Agents create, schedule and publish content across social and messaging channels from one command centre. |
 | **[.KE Digital Starter Pack](https://digitalstarterpack.ke)** | Kenya's national digital onboarding platform. Gives schools, health centres, NGOs and businesses a .ke domain, website, hosting and business email, provisioned automatically. |
