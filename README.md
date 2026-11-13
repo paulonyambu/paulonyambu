@@ -33,12 +33,10 @@ I've shipped a lot of projects, and most of the code is private to products and 
 
 ### Get in touch
 
-| | |
-|---|---|
-| **MyGanji** | [paul@myganji.com](mailto:paul@myganji.com) |
-| **MetaCap AI** | [pauloh@metacap.ai](mailto:pauloh@metacap.ai) |
-| **Personal** | [tech.pauloh@gmail.com](mailto:tech.pauloh@gmail.com) |
-| **Call / WhatsApp** | [+254 724 213 381](https://wa.me/254724213381) |
-| **LinkedIn** | [linkedin.com/in/paul-onyambu](https://www.linkedin.com/in/paul-onyambu/) |
+- **MyGanji:** [paul@myganji.com](mailto:paul@myganji.com)
+- **MetaCap AI:** [pauloh@metacap.ai](mailto:pauloh@metacap.ai)
+- **Personal:** [tech.pauloh@gmail.com](mailto:tech.pauloh@gmail.com)
+- **Call / WhatsApp:** [+254 724 213 381](https://wa.me/254724213381)
+- **LinkedIn:** [linkedin.com/in/paul-onyambu](https://www.linkedin.com/in/paul-onyambu/)
 
 <!-- Portfolio: add here once live -->
