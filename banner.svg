@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Paul Onyambu — Software Engineer. Founder and CEO at MyGanji, CTO at MetaCap AI.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00071C"/>
+      <stop offset="1" stop-color="#0B1630"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1B2A4A" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#grid)" opacity="0.45"/>
+  <circle cx="34" cy="30" r="6" fill="#FF5F57"/>
+  <circle cx="54" cy="30" r="6" fill="#FEBC2E"/>
+  <circle cx="74" cy="30" r="6" fill="#28C840"/>
+  <text x="600" y="35" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#5B6B8C">paulonyambu@nairobi: ~</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="56" y="92" font-size="18" fill="#5B6B8C"><tspan fill="#3FB950">~</tspan> $ whoami</text>
+    <text x="56" y="140" font-size="40" font-weight="700" fill="#E6EDF3">Paul Onyambu</text>
+    <text x="56" y="176" font-size="20" fill="#8FB4FF">Software Engineer · Founder &amp; CEO @ MyGanji · CTO @ MetaCap AI</text>
+    <text x="56" y="228" font-size="18" fill="#5B6B8C"><tspan fill="#3FB950">~</tspan> $ cat focus.txt</text>
+    <text x="56" y="260" font-size="18" fill="#C9D1D9">payments infrastructure · AI agents · platforms at national scale<tspan fill="#3FB950"> ▍</tspan></text>
+  </g>
+  <text x="1160" y="270" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#3A4A6B">Nairobi, KE</text>
+</svg>
