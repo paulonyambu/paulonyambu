@@ -7,7 +7,7 @@
   <a href="https://wa.me/254724213381"><img src="https://img.shields.io/badge/WhatsApp-+254_724_213_381-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-I'm a software engineer in Nairobi. I build payments and AI systems for African markets, and I lead the companies that ship them.
+I'm a software engineer based in Nairobi. I build payments infrastructure and AI systems for businesses, in Kenya and internationally, and I lead the companies that ship them.
 
 - **Founder & CEO, [MyGanji](https://myganji.com)**: payments infrastructure for Kenya.
 - **CTO, [MetaCap AI](https://metacap.ai)**: autonomous AI systems that run sales, marketing and operations for businesses.
